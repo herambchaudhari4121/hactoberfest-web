@@ -1,5 +1,14 @@
 # hactoberfest-web
+ <!DOCTYPE html>
+<html>
+<body>
 
+<h2> 💻🎃𝐇𝐀𝐂𝐓𝐎𝐁𝐄𝐑𝐅𝐄𝐒𝐓 𝟐𝟎𝟐𝟐💻🎃</h2>
+
+<img src="https://uno-website-assets.s3.amazonaws.com/wp-content/uploads/2022/09/28094927/Uno_HackFest22_Hero_V1-1024x395.jpg" alt="W3Schools.com" style="width:900px;height:350px;">
+
+</body>
+</html>
 
 1.Search about the the topic or domain on which you want to contribute like changes in style, resizing, changing fonts, etc.
 
